@@ -1,0 +1,12 @@
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM Service\bin\Debug\ATM Service.exe.config
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM Service\bin\Debug\ATM Service.exe
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM Service\bin\Debug\ATM Service.pdb
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM Service\bin\Debug\ATM_Service_Bussiness_Layer.dll
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM Service\bin\Debug\ATM_Service_Bussiness_Layer.pdb
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM Service\obj\Debug\ATM Service.csproj.AssemblyReference.cache
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM Service\obj\Debug\ATM_Service.Properties.Resources.resources
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM Service\obj\Debug\ATM Service.csproj.GenerateResource.cache
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM Service\obj\Debug\ATM Service.csproj.CoreCompileInputs.cache
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM Service\obj\Debug\ATM Serv.71CED5B4.Up2Date
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM Service\obj\Debug\ATM Service.exe
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM Service\obj\Debug\ATM Service.pdb

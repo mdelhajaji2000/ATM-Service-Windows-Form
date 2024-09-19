@@ -1,0 +1,9 @@
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM_Service_Bussiness_Layer\bin\Debug\ATM_Service_Bussiness_Layer.dll
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM_Service_Bussiness_Layer\bin\Debug\ATM_Service_Bussiness_Layer.pdb
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM_Service_Bussiness_Layer\bin\Debug\ATM_Service_Data_Access_Layer.dll
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM_Service_Bussiness_Layer\bin\Debug\ATM_Service_Data_Access_Layer.pdb
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM_Service_Bussiness_Layer\obj\Debug\ATM_Service_Bussiness_Layer.csproj.AssemblyReference.cache
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM_Service_Bussiness_Layer\obj\Debug\ATM_Service_Bussiness_Layer.csproj.CoreCompileInputs.cache
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM_Service_Bussiness_Layer\obj\Debug\ATM_Serv.7F27EFAA.Up2Date
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM_Service_Bussiness_Layer\obj\Debug\ATM_Service_Bussiness_Layer.dll
+C:\Users\mdelh\OneDrive\Desktop\My-Full-Real-Projects\C#-dotnet-winForms-SqlDB-RealProjects\ATM-Service-Windows-Form\ATM_Service_Bussiness_Layer\obj\Debug\ATM_Service_Bussiness_Layer.pdb
