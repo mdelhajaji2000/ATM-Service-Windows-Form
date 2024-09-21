@@ -16,5 +16,20 @@ namespace ATM_Service
         {
             InitializeComponent();
         }
+
+        private void maskedTextBox1_Click(object sender, EventArgs e)
+        {
+            ((MaskedTextBox)sender).SelectionStart = 0;
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void CancelButton_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
